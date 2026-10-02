@@ -1,0 +1,15 @@
+TOXIC CONTENT DETECTION SYSTEM - KEY INSIGHTS
+============================================================
+
+Total Content Items: 1000
+Toxic Content: 500 (50.0%)
+Non-Toxic Content: 500 (50.0%)
+
+Average toxic content length: 16.0 characters
+Average non-toxic content length: 20.2 characters
+
+Toxic content with curse words: 59 (11.8%)
+Toxic content with threats: 63 (12.6%)
+
+Average uppercase ratio in toxic content: 42.33%
+Average uppercase ratio in non-toxic content: 2.75%
